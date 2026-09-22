@@ -1,0 +1,10 @@
+Name: Types
+Type: FolderType
+Children:
+- Name: MyMotor
+  Id: g=7ac215e53ce7efe9210138ed02513787
+  Supertype: BaseObjectType
+  Children:
+  - Name: SeepdMotor
+    Type: BaseDataVariableType
+    DataType: Int32
